@@ -1,0 +1,18 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Sansation_Light
+font link: https://www.fontsquirrel.com/fonts/sansation
+font author: Bernd Montag
+font author site: mailto:berndmontag@gmx.de
+
+
+icon designer: Stepan Voevodin
+icon designer link: /voevodin.stepan
+        
+
+fontColor: {"gradient-0":"#540404","gradient-1":"#4E4E4E"}
+bgColor: {"hex":"transparent"}
+iconColor: {"gradient-0":"#540404","gradient-1":"#4E4E4E"}
+
+      
